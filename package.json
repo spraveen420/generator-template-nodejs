@@ -20,12 +20,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Praveenkumar",
   "license": "ISC",
-  "homepage": "https://github.com/owner/project#readme",
+  "homepage": "https://github.com/spraveen420/generator-template-nodejs",
   "bugs": {
-    "url": "https://github.com/owner/project/issues",
-    "email": "project@hostname.com"
+    "url": "https://github.com/spraveen420/generator-template-nodejs/issues",
+    "email": "spraveen3697@gmail.com"
   },
   "repository": {}
 }
