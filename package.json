@@ -1,0 +1,31 @@
+{
+  "name": "generator-template-nodejs",
+  "version": "0.1.0",
+  "description": "Yeoman generator for nodejs",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "mkdirp": "^1.0.3",
+    "process": "^0.11.10",
+    "validate-npm-package-name": "^3.0.0",
+    "yeoman-generator": "^4.4.0",
+    "yo": "^3.1.1",
+    "yosay": "^2.0.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/owner/project#readme",
+  "bugs": {
+    "url": "https://github.com/owner/project/issues",
+    "email": "project@hostname.com"
+  },
+  "repository": {}
+}
