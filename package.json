@@ -27,5 +27,8 @@
     "url": "https://github.com/spraveen420/generator-template-nodejs/issues",
     "email": "spraveen3697@gmail.com"
   },
-  "repository": {}
+  "repository": {
+		"type": "git",
+    "url": "git+https://github.com/spraveen420/generator-template-nodejs.git"
+  }
 }
