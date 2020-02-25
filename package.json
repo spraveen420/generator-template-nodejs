@@ -21,7 +21,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Praveenkumar",
-  "license": "ISC",
+  "license": "",
   "homepage": "https://github.com/spraveen420/generator-template-nodejs#README.md",
   "bugs": {
     "url": "https://github.com/spraveen420/generator-template-nodejs/issues",
